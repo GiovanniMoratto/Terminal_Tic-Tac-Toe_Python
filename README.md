@@ -7,6 +7,6 @@
  The first character corresponds to the line and the second to the column.
  Examples:
  
- '11','12','13'
- '21','22','23'
- '31','32','33'
+ '11','12','13'.
+ '21','22','23'.
+ '31','32','33'.
